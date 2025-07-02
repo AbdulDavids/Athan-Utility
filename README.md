@@ -20,6 +20,7 @@ A simple, lightweight Athan application.
 - Disabling location services to manually set calculation coordinates
 - Rapid on-device calculation
 - Zero data collection or ads
+- Auto-sync Fajr alarm using iOS 26 AlarmKit
 
 
 <div align="center">
